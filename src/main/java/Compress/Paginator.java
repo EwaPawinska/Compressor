@@ -2,11 +2,6 @@ package Compress;
 
 import com.google.common.base.Splitter;
 import com.google.common.collect.Lists;
-import oracle.jrockit.jfr.StringConstantPool;
-
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.List;
 
 public class Paginator {
 
